@@ -39,7 +39,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/pghatani0811/Decision-Tree)
+[talking data](https://github.com/pghatani0811/Decision-Tree)
 
 <img src="images/Dog-and-Cat.jpeg?raw=true"/>
 
